@@ -1,3 +1,3 @@
 # SQL_Leedcode-challenges-and-learnings.spl
 
-This document outlines the practice and problem-solving experience gained from working on SQL challenges inspired by platforms like LeetCode. It highlights the use of core SQL concepts such as SELECT, WHERE, GROUP BY, HAVING, JOIN, subqueries, window functions, and aggregate functions to solve real-world database problems. The challenges helped strengthen logical thinking, query optimization skills, and the ability to handle complex data relationships. Additionally, it emphasizes learning advanced topics like ranking functions, case statements, date functions, and performance tuning techniques. Overall, the file reflects hands-on experience in writing efficient SQL queries and improving problem-solving skills through consistent practice.
+
